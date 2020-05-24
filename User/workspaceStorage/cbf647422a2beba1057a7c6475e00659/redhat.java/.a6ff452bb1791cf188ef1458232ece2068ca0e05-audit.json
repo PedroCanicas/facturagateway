@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/desarrollo/inventariomicroservicio/User/workspaceStorage/cbf647422a2beba1057a7c6475e00659/redhat.java/.a6ff452bb1791cf188ef1458232ece2068ca0e05-audit.json",
+    "files": [
+        {
+            "date": 1590283183996,
+            "name": "/home/desarrollo/inventariomicroservicio/User/workspaceStorage/cbf647422a2beba1057a7c6475e00659/redhat.java/client.log.2020-05-24",
+            "hash": "2b547cdc4766f48af60e6b0afb2260a2"
+        }
+    ]
+}

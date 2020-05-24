@@ -186,7 +186,7 @@ jhipster:
   #     allow-credentials: true
   #     max-age: 1800
   mail:
-    from: inventariomicroservicio@localhost
+    from: inventariomicroservicio@13.65.148.169
   swagger:
     default-include-pattern: /api/.*
     title: inventariomicroservicio API
